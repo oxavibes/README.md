@@ -34,6 +34,7 @@ Currently focusing on backend technologies to become a **Fullstack Engineer**.
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![amazondynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?&logo=Amazon%20DynamoDB&logoColor=white)
 
 ### Version Control
 ![git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white&flat)
