@@ -10,7 +10,7 @@ Currently focusing on backend technologies to become a **Fullstack Engineer**.
 
 ### Programming languages
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white&style=flat)
+![typescript](https://img.shields.io/badge/Typescript-%23007ACC.svg?logo=typescript&logoColor=white&style=flat)
 
 ### Frontend development
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
