@@ -47,6 +47,6 @@ Currently focusing on backend technologies to become a **Fullstack Engineer**.
 ### Hosting services
 ![aws](https://img.shields.io/badge/Aws-%23FF9900.svg?logo=amazon-aws&logoColor=white)
 ![digitalocean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)
-![vercel](https://img.shields.io/badge/vercel-%23000000.svg?logo=Vercel&logoColor=white)
-![netlify](https://img.shields.io/badge/netlify-%23000000.svg?logo=Netlify&logoColor=#00C7B7)
+![vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
+![netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)
 
