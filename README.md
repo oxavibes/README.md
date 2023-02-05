@@ -9,8 +9,12 @@ Currently focusing on backend technologies to become a **Fullstack Engineer**.
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=flat)](https://t.me/stefano_bozzi)
 
 ### Programming languages
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&style=flat)
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&style=flat)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![typescript](https://img.shields.io/badge/Typescript-%23007ACC.svg?logo=typescript&logoColor=white&style=flat)
+
 
 ### Frontend development
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -47,7 +51,7 @@ Currently focusing on backend technologies to become a **Fullstack Engineer**.
 ![quasar](https://img.shields.io/badge/Quasar-16B7FB?style=flat&logo=quasar&logoColor=black)
 
 ### Hosting services
-![aws](https://img.shields.io/badge/Aws-%23FF9900.svg?logo=amazon-aws&logoColor=white)
+![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![digitalocean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
 ![netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)
