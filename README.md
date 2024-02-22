@@ -6,7 +6,6 @@ Currently focusing on backend technologies to become a **Fullstack Engineer**.
 ## 🌎 Where to find me
 [![gmail](https://img.shields.io/badge/Gmail-D14836?logo=Gmail&logoColor=white)](mailto:bozzistef@gmail.com)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/stefano-bozzi)
-[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/stefano_bozzi)
 
 ### Programming languages
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
