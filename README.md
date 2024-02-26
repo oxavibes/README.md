@@ -1,6 +1,5 @@
 ## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
-Hi, I'm Stefano Bozzi, a **Computer Science Engineer** from Italy / Venezuela. On my day to day i'm writing Vue Single Page Applications following real word best practices.
-Currently focusing on backend technologies to become a **Fullstack Engineer**.
+Hi, I'm Stefano Bozzi, a **Computer Science Engineer** from Italy. On my day to day I write Vue web apps following real word best practices.
 
 
 ## 🌎 Where to find me
